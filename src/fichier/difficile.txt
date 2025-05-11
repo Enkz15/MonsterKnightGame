@@ -1,0 +1,12 @@
+Contexte
+3
+Chouin-Chouin 2
+Chimere 3
+Dragonus 2
+Contexte
+5
+Chouin-Chouin 1
+Chimere 3
+Petite_Pustule 2
+Dragonus 3
+Lutin_Cordial 1

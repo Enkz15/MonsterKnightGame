@@ -1,0 +1,13 @@
+6
+Toto 1
+380 
+Pascale 5
+60 52 30 12 0 
+Amara 5
+60 52 30 12 0 
+Chloe 2
+15 2 
+Pilipata 2
+12 0 
+t 0
+
